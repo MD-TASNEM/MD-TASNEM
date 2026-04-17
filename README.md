@@ -206,9 +206,6 @@ I build clean, scalable web applications with a focus on creating impactful Isla
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MD-TASNEM/MD-TASNEM/output/github-contribution-grid-snake.svg" width="100%" alt="Snake"/>
-</div>
 
 <br/>
 
@@ -234,9 +231,7 @@ I build clean, scalable web applications with a focus on creating impactful Isla
   </div>
 
   <!-- RECENTLY PLAYED -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j2zmg63mey7zowj6nzg2clz3na&count=3&width=600" alt="Recently Played"/>
 
-  <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkle&fontColor=ffffff" width="100%"/>
 </div>
