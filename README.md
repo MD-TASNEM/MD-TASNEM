@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0A0F1E&text=MD%20TASNEM&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Da'i%20%7C%20Arabic%20Scholar&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&stroke=00FF9D&strokeWidth=1" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=⚡MD%20TASNEM⚡&fontAlign=50&fontAlignY=38&desc=🔥%20Full-Stack%20Developer%20%7C%20Da'i%20%7C%20Arabic%20Scholar%20🔥&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&stroke=00FF00&strokeWidth=1" width="100%"/>
+</div>
+
 <br/>
 
 <!-- TYPING ANIMATIONS -->
