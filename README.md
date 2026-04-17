@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MD-TASNEM
+
 # 💫 About Me:
 Md. Tasneem Al-Huzaifa Miraj was born in Barisal district. He completed his eighth grade from Darus Sunnat Kamil Madrasa in Charchina. Later, he passed the Dakhil and Alim exams from N.S. Kamil Madrasa in Jhalakathi. He is currently studying in the Department of Arabic Language and Literature at the Islamic University of Kushtia. In addition, he is skilled in web development. His areas of expertise include—HTML, CSS, JavaScript, React, MongoDB, Firebase, NodeJS, Next.js, Git, GitHub and Tailwind CSS. His life's goal is to serve the Ummah through a combination of religious knowledge and modern technology.
 
