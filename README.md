@@ -225,3 +225,18 @@ I build clean, scalable web applications with a focus on creating impactful Isla
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0A0F1E&section=footer" width="100%"/>
 </div>
+
+
+ <div>
+    <p><i>✨ Thank you for visiting my profile. May Allah accept our efforts and grant us sincerity in all our deeds. ✨</i></p>
+    <p><b>📅 Last Updated:</b> <img src="https://img.shields.io/badge/DATE-2026--04--17-00FF00?style=flat-square"/> &nbsp;
+    <b>⏱️ Status:</b> <img src="https://img.shields.io/badge/🟢_ACTIVE_ONLINE-CODING-FF1493?style=flat-square"/></p>
+  </div>
+
+  <!-- RECENTLY PLAYED -->
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j2zmg63mey7zowj6nzg2clz3na&count=3&width=600" alt="Recently Played"/>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkle&fontColor=ffffff" width="100%"/>
+</div>
