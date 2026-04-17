@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=1800&pause=400&color=00FF9D&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Arabic+Literature+Scholar;Da'i+%26+Servant+of+Islam;Bridging+Faith+and+Technology;رَبِّ+زِدْنِي+عِلْمًا" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=1800&pause=400&color=00FF9D&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Web+Developer;Arabic+Literature+Scholar;Da'i+%26+Servant+of+Islam;Bridging+Faith+and+Technology;رَبِّ+زِدْنِي+عِلْمًا" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
   <a href="https://github.com/MD-TASNEM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-tasnem-miraj-161201294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=61574382370566"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@مُحَمَّدُ+تَسْنِيمُ+مِرَاج"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@%E0%A6%AE%E0%A7%8B%E0%A6%83%E0%A6%A4%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:tasnimmuhammad51@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
@@ -33,6 +33,7 @@ I develop clean, scalable web applications with a focus on creating impactful Is
 ---
 
 ### 🎯 Mission
+
 To serve the Ummah by developing high-quality Islamic content and da'wah platforms using modern web technologies — **coding for Allah's pleasure**.
 
 > رَبِّ زِدْنِي عِلْمًا  
@@ -67,30 +68,40 @@ To serve the Ummah by developing high-quality Islamic content and da'wah platfor
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-TASNEM&show_icons=true&theme=radical&hide_border=true&title_color=00FF9D&icon_color=FF1493&text_color=ffffff&bg_color=0d1117" width="48%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-TASNEM&theme=radical&hide_border=true&stroke=00FF9D&ring=FF1493&fire=FFD700&currStreakNum=00FF9D" width="48%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-TASNEM&show_icons=true&theme=radical&hide_border=true&title_color=00FF9D&icon_color=FF1493&text_color=ffffff&bg_color=0d1117&include_all_commits=true" width="48%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-TASNEM&theme=radical&hide_border=true&stroke=00FF9D&ring=FF1493&fire=FFD700&currStreakNum=00FF9D&sideLabels=00FF9D&sideNums=ffffff&background=0d1117" width="48%" alt="Streak"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TASNEM&layout=compact&theme=radical&hide_border=true&title_color=00FF9D&text_color=ffffff&bg_color=0d1117" width="48%" alt="Top Languages"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MD-TASNEM&theme=radical" width="90%" alt="Profile Summary"/>
+</div>
+
 ---
 
 ### 🌟 Featured Projects
+
 - **[Islamic Missionary University (IMU)](https://github.com/MD-TASNEM/Islamic-Missionary-University-IMU)** — Platform combining Islamic education with modern technology.
 - **E-commerce Solutions** — Full-stack applications with clean architecture.
-- More projects coming soon inshaAllah (Islamic content platforms, da'wah tools, Quran-related apps).
+- More projects coming soon, insha'Allah (Islamic content platforms, da'wah tools, Quran-related apps).
 
-*(Pin your best 4–6 repositories on GitHub for better visibility)*
+> 💡 *Tip: Pin your best 4–6 repositories on GitHub for better visibility*
 
 ---
 
 ### 📍 Contact & Connect
 
-- **Location**: Islamic University, Kushtia, Bangladesh
-- **Phone**: +880 1330-989762
-- **Email**: tasnimmuhammad51@gmail.com
+| | |
+|---|---|
+| 📍 **Location** | Islamic University, Kushtia, Bangladesh |
+| 📞 **Phone** | +880 1330-989762 |
+| 📧 **Email** | tasnimmuhammad51@gmail.com |
+| 🌐 **GitHub** | [MD-TASNEM](https://github.com/MD-TASNEM) |
 
 **Let's collaborate** on projects that benefit the Ummah — whether it's web development, Islamic tech solutions, or da'wah platforms.
 
@@ -101,5 +112,11 @@ To serve the Ummah by developing high-quality Islamic content and da'wah platfor
   <br/><br/>
   <i>May Allah accept our efforts and grant us sincerity in every deed. 🤲</i>
   <br/>
-  <strong>رَبِّ زِدْنِي عِلْمًا</strong>
+  <strong>⭐ رَبِّ زِدْنِي عِلْمًا ⭐</strong>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0A0F1E&section=footer" width="100%"/>
 </div>
