@@ -2,34 +2,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=⚡MD%20TASNEM⚡&fontAlign=50&fontAlignY=38&desc=🔥%20Full-Stack%20Developer%20%7C%20Da'i%20%7C%20Arabic%20Scholar%20🔥&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff&stroke=00FF00&strokeWidth=1" width="100%"/>
 </div>
 
-<!-- MULTIPLE TYPING ANIMATIONS - ALL WORK ON GITHUB -->
+<!-- MAIN TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=🚀+FULL-STACK+WEB+DEVELOPER;📚+ARABIC+LITERATURE+SCHOLAR;🕋+DA'I+%26+SERVANT+OF+ISLAM;🌍+BRIDGE+ISLAM+%26+TECHNOLOGY;💡+رَبِّ+زِدْنِي+عِلْمًا;⚡+CODE+FOR+ALLAH'S+PLEASURE;🎯+SERVING+THE+UMMAH;🔥+LIVE+TO+INSPIRE" alt="Main Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=900&height=60&lines=🚀+FULL-STACK+WEB+DEVELOPER;📚+ARABIC+LITERATURE+SCHOLAR;🕋+DA'I+%26+SERVANT+OF+ISLAM;🌍+BRIDGE+ISLAM+%26+TECHNOLOGY;💡+رَبِّ+زِدْنِي+عِلْمًا;⚡+CODE+FOR+ALLAH'S+PLEASURE;🎯+SERVING+THE+UMMAH;🔥+LIVE+TO+INSPIRE" alt="Main Typing"/>
 </div>
 
+<!-- QURAN TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=600&color=FF1493&center=true&vCenter=true&width=700&height=50&lines=%22My+Lord%2C+increase+me+in+knowledge%22;%22Indeed%2C+prayer+prohibits+immorality%22;%22The+best+of+you+learn+the+Quran%22;%22Seek+knowledge+from+cradle+to+grave%22" alt="Quran Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=600&color=FF1493&center=true&vCenter=true&width=800&height=50&lines=%22My+Lord%2C+increase+me+in+knowledge%22;%22Indeed%2C+prayer+prohibits+immorality%22;%22The+best+of+you+learn+the+Quran%22;%22Seek+knowledge+from+cradle+to+grave%22" alt="Quran Typing"/>
 </div>
 
+<!-- DAILY TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=500&size=18&duration=2500&pause=400&color=FFD700&center=true&vCenter=true&width=650&height=40&lines=⏰+TAHAJJUD:+03:00+AM;📖+QURAN+RECITATION;💻+CODING+FOR+UMMAH;🎯+DAILY+GOAL:+SERVING+ALLAH" alt="Daily Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=500&size=18&duration=2500&pause=400&color=FFD700&center=true&vCenter=true&width=750&height=40&lines=⏰+TAHAJJUD:+03:00+AM;📖+QURAN+RECITATION;💻+CODING+FOR+UMMAH;🎯+DAILY+GOAL:+SERVING+ALLAH" alt="Daily Typing"/>
 </div>
 
-<!-- ANIMATED COUNTDOWN TIMER (VISUAL EFFECT) -->
+<!-- LIVE INDICATOR -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=1000&pause=100&color=FF4500&center=true&vCenter=true&width=500&height=60&lines=⚡+LIVE+CODING+⚡;⚡+ACTIVE+NOW+⚡;⚡+ALWAYS+LEARNING+⚡" alt="Live Indicator"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=800&pause=100&color=FF4500&center=true&vCenter=true&width=600&height=60&lines=⚡+LIVE+CODING+⚡;⚡+ACTIVE+NOW+⚡;⚡+ALWAYS+LEARNING+⚡" alt="Live Indicator"/>
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER - SPINNING EFFECT -->
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- PROFILE CARD WITH HOVER ANIMATIONS -->
+<!-- PROFILE SECTION -->
 <table align="center" border="0" cellpadding="20" style="background: linear-gradient(135deg, #0a0f1e 0%, #0d1425 100%); border-radius: 30px; border: 2px solid #00FF00;">
   <tr>
     <td valign="center" width="30%" align="center">
-      <!-- PULSING PROFILE IMAGE -->
       <div style="display: inline-block; animation: pulse 2s infinite;">
         <img src="https://scontent.fird6-1.fna.fbcdn.net/v/t39.30808-6/668103074_980476521161596_7089596423633522897_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=aYCN3peWu1IQ7kNvwHd0lVf&_nc_oc=AdpBhqHj0qBEiGBLU1mS36PdV51WRGhh0sHccJOFsqAQh2uvZ1aKe1PnPOGuAMhGO1A&_nc_zt=23&_nc_ht=scontent.fird6-1.fna&_nc_gid=CfGTkDCfEKxaZDWs6VZ7jg&_nc_ss=7a3a8&oh=00_Af3dqB33x4H4S4bsHfrSgGeH3Fb_HpkwaARgLQeRs4VYZQ&oe=69E7CD35" width="200" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 20px #00FF00;" alt="Profile"/>
       </div>
@@ -38,7 +39,6 @@
       <h3>"My Lord, increase me in knowledge"</h3>
       <h4>Md. Tasneem Al-Huzaifa Miraj</h4>
       <p><b>⚡ Web Developer | Da'i | Arabic Literature Student ⚡</b></p>
-      <!-- ANIMATED STATUS BADGE -->
       <img src="https://img.shields.io/badge/🚀_STATUS-CODING_FOR_JANNAH-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=FF1493"/>
       <br/>
       <img src="https://img.shields.io/badge/⏰_ACTIVE_TIME-24/7_READY-00FF00?style=for-the-badge&logo=clockify&logoColor=white"/>
@@ -46,9 +46,9 @@
     <td valign="top" width="70%">
       <div style="animation: slideIn 1s ease-out;">
         <p align="justify" style="font-size: 16px; line-height: 1.8;">
-          <b>⚡ Md. Tasneem Al-Huzaifa Miraj ⚡</b> was born in Barisal district. He completed his eighth grade from Darus Sunnat Kamil Madrasa, Charchina. Later, he passed the Dakhil and Alim exams from N.S. Kamil Madrasa, Jhalakathi. 
+          <b>⚡ Md. Tasneem Al-Huzaifa Miraj ⚡</b> was born in Barisal district. He completed his eighth grade from Darus Sunnat Kamil Madrasa, Charchina. Later, he passed the Dakhil and Alim exams from N.S. Kamil Madrasa, Jhalakathi.
           <br><br>
-          🎯 Currently, he is studying in the <b>Department of Arabic Language and Literature</b> at the Islamic University of Kushtia. In addition, he is skilled in web development. His areas of expertise include—<b>HTML, CSS, JavaScript, React, MongoDB, Firebase, NodeJS, Next.js, Git, GitHub and Tailwind CSS.</b> 
+          🎯 Currently, he is studying in the <b>Department of Arabic Language and Literature</b> at the Islamic University of Kushtia. In addition, he is skilled in web development. His areas of expertise include—<b>HTML, CSS, JavaScript, React, MongoDB, Firebase, NodeJS, Next.js, Git, GitHub and Tailwind CSS.</b>
           <br><br>
           🌟 His life's goal is to serve the <b>Ummah</b> through a combination of religious knowledge and modern technology.
           <br><br>
@@ -63,11 +63,11 @@
         <a href="#"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_RESUME-FFD700?style=for-the-badge&logo=download&logoColor=black&labelColor=0A0A0A&color=FFD700"/></a>
       </div>
     </td>
-  </tr>
+  </table>
 </table>
 
 <!-- ANIMATED MARQUEE SCROLLING TEXT -->
-<div align="center" style="background: linear-gradient(90deg, #FF1493, #00FF00, #FFD700, #00FF00, #FF1493); padding: 10px; border-radius: 50px; margin: 20px 0;">
+<div align="center" style="background: linear-gradient(90deg, #FF1493, #00FF00, #FFD700, #00FF00, #FF1493); padding: 12px; border-radius: 50px; margin: 20px 0;">
   <marquee behavior="scroll" direction="left" scrollamount="5" style="color: black; font-weight: bold; font-size: 18px;">
     🚀 FULL-STACK DEVELOPER | 📚 ARABIC LITERATURE SCHOLAR | 🕋 DA'I | 🌍 BUILDING BRIDGE BETWEEN ISLAM & TECH | 💡 رَبِّ زِدْنِي عِلْمًا | ⚡ CODE FOR ALLAH'S PLEASURE 🚀
   </marquee>
@@ -75,33 +75,33 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED STATS SECTION -->
+<!-- LIVE STATISTICS SECTION -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" height="40"/>
-    📊 LIVE STATISTICS 
+    📊 LIVE STATISTICS
     <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" height="40"/>
   </h2>
-  
+
   <!-- ANIMATED SPOTIFY CARD -->
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j2zmg63mey7zowj6nzg2clz3na&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300" alt="Spotify" style="border-radius: 20px; animation: rotate 3s ease-in-out infinite;"/>
-  
+
   <br/><br/>
-  
-  <!-- GITHUB STATS WITH GLOW EFFECT -->
+
+  <!-- GITHUB PROFILE SUMMARY -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MD-TASNEM&theme=github_dark" width="800" alt="Profile Summary" style="border: 2px solid #00FF00; border-radius: 20px;"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED BIOGRAPHY -->
+<!-- BIOGRAPHY SECTION -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/26gR2qXgft3vK/giphy.gif?cid=790b7611aodz28j7jh3zmyggt8zrm3i9n20ol3r9hx70c7yk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    📜 MY BIOGRAPHY 
+    📜 MY BIOGRAPHY
     <img src="https://media.giphy.com/media/26gR2qXgft3vK/giphy.gif?cid=790b7611aodz28j7jh3zmyggt8zrm3i9n20ol3r9hx70c7yk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div style="background: linear-gradient(135deg, #0a0f1e, #0d1425); border-left: 8px solid #00FF00; padding: 25px; border-radius: 30px; margin: 20px 0; animation: borderPulse 2s infinite;">
     <p align="center">
       <i style="font-size: 18px;">"Who knew except Allah that a sick boy born in the lap of a sick mother would have such a long life? By the infinite mercy of Allah, so many years have passed. After passing through every stage of mother's death, aunt's shadow, father's family responsibilities, maktab-madrasa, today I want to become a web developer and servant of religion."</i>
@@ -128,14 +128,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED TIMELINE -->
+<!-- LIFE TIMELINE -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    📖 LIFE TIMELINE 
+    📖 LIFE TIMELINE
     <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/📚_MAKTAB-Bayatibari_Masjid-FF6B6B?style=for-the-badge&logo=book&logoColor=white"/>
     <img src="https://img.shields.io/badge/⭐_NOORANI-Dharalia_Noorani-4ECDC4?style=for-the-badge&logo=star&logoColor=white"/>
@@ -149,14 +149,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED TECH STACK WITH SPINNING ICONS -->
+<!-- TECH STACK -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    💻 TECH STACK 
+    💻 TECH STACK
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div align="center">
     <h3>🚀 Frontend Development</h3>
     <div>
@@ -167,7 +167,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0A0A0A&color=000000"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A0A0A&color=38B2AC"/>
     </div>
-    
+
     <h3>⚙️ Backend Development</h3>
     <div>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A0A0A&color=43853D"/>
@@ -175,7 +175,7 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A&color=4EA94B"/>
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=0A0A0A&color=039BE5"/>
     </div>
-    
+
     <h3>🛠️ Tools & Platforms</h3>
     <div>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A&color=F05032"/>
@@ -189,19 +189,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/l0HlNaZ6zLfV6HnFe/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    📊 GITHUB ANALYTICS 
+    📊 GITHUB ANALYTICS
     <img src="https://media.giphy.com/media/l0HlNaZ6zLfV6HnFe/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div>
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MD-TASNEM&show_icons=true&count_private=true&hide_border=false&title_color=00FF00&icon_color=FF1493&text_color=FFD700&bg_color=0d1117&include_all_commits=true&rank_icon=github&theme=radical&border_radius=20&border_color=00FF00" alt="GitHub Stats" />
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TASNEM&layout=donut&hide_border=false&title_color=00FF00&text_color=FFD700&bg_color=0d1117&langs_count=8&theme=radical&border_radius=20&border_color=FF1493" alt="Top Languages" />
   </div>
-  
+
   <div>
     <img width="45%" src="https://nirzak-streak-stats.vercel.app/?user=MD-TASNEM&theme=dark&hide_border=false&stroke=00FF00&ring=FF1493&fire=FFD700&currStreakNum=00FF00&sideNums=FF1493&currStreakLabel=FFD700&sideLabels=00FF00&dates=FF1493&background=0d1117&border=00FF00&border_radius=20" alt="GitHub Streak" />
     <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=MD-TASNEM&theme=react-dark&bg_color=0d1117&hide_border=false&area=true&color=00FF00&line=FF1493&point=FFD700&area_color=00FF00&custom_title=🔥%20Contribution%20Activity%20🔥&border_radius=20&border_color=00FF00" alt="Contribution Graph" />
@@ -210,23 +210,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED ACHIEVEMENTS -->
+<!-- ACHIEVEMENTS & METRICS -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3orieS4jfHJaKUkeli/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    🎯 ACHIEVEMENTS & METRICS 
+    🎯 ACHIEVEMENTS & METRICS
     <img src="https://media.giphy.com/media/3orieS4jfHJaKUkeli/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=MD-TASNEM&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4&row=2&border_color=00FF00" width="800" alt="GitHub Trophies" />
   </div>
-  
+
   <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MD-TASNEM&theme=github_dark" width="350" alt="Repos per Language" style="border: 2px solid #FF1493; border-radius: 15px;"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MD-TASNEM&theme=github_dark" width="350" alt="Most Commit Language" style="border: 2px solid #00FF00; border-radius: 15px;"/>
   </div>
-  
+
   <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MD-TASNEM&theme=github_dark" width="350" alt="Stats" style="border: 2px solid #FFD700; border-radius: 15px;"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-TASNEM&theme=github_dark&utcOffset=6" width="350" alt="Productive Time" style="border: 2px solid #FF1493; border-radius: 15px;"/>
@@ -235,14 +235,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED DAILY ROUTINE -->
+<!-- DAILY ROUTINE -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    ⏰ DAILY ROUTINE 
+    ⏰ DAILY ROUTINE
     <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <table width="100%">
     <tr>
       <td width="33%" valign="top" style="background: linear-gradient(135deg, #1a0033, #0a0011); padding: 20px; border-radius: 20px; border: 2px solid #FF1493;">
@@ -265,7 +265,7 @@
           <li>⚔️ <b>Mutaa'ala / Training:</b> Asr – Isha</li>
           <li>📝 <b>Daily Exam:</b> Isha – 03:00 AM</li>
         </ul>
-      </td>
+       </td>
       <td width="33%" valign="top" style="background: linear-gradient(135deg, #331100, #110000); padding: 20px; border-radius: 20px; border: 2px solid #FFD700;">
         <h3>🍽️ Meals</h3>
         <ul align="left" style="list-style: none;">
@@ -276,25 +276,25 @@
         <div align="center">
           <img src="https://media.giphy.com/media/l0HlNaZ6zLfV6HnFe/giphy.gif?cid=790b7611hjvt1ukkj3v8il2tfn5f3u48y1j5dop2xj3d2d6r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80" style="border-radius: 20px;"/>
         </div>
-      </td>
+       </td>
     </tr>
   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED QUOTES SECTION -->
+<!-- DAILY INSPIRATION -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/26gR2qXgft3vK/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    💡 DAILY INSPIRATION 
+    💡 DAILY INSPIRATION
     <img src="https://media.giphy.com/media/26gR2qXgft3vK/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div style="background: linear-gradient(135deg, #0a0f1e, #0d1425); padding: 20px; border-radius: 30px; margin: 20px 0;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   </div>
-  
+
   <div>
     <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes" width="500"/>
   </div>
@@ -302,14 +302,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED SOCIAL LINKS WITH HOVER EFFECTS -->
+<!-- CONNECT WITH ME -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    🌐 CONNECT WITH ME 
+    🌐 CONNECT WITH ME
     <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div>
     <a href="https://facebook.com/https://www.facebook.com/profile.php?id=61574382370566">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A0A0A&color=1877F2"/>
@@ -334,14 +334,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ANIMATED SUPPORT SECTION -->
+<!-- SUPPORT MY WORK -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3orieS4jfHJaKUkeli/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
-    🤝 SUPPORT MY WORK 
+    🤝 SUPPORT MY WORK
     <img src="https://media.giphy.com/media/3orieS4jfHJaKUkeli/giphy.gif?cid=790b7611m8t0p8dwj5uvas2p0grcf7njofj0g93cgy6nn4sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"/>
   </h2>
-  
+
   <div>
     <a href="https://buymeacoffee.com/tasnimmuhammad51@gmail.com">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0A0A0A&color=FFDD00"/>
@@ -360,33 +360,33 @@
 <!-- ANIMATED FOOTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MD-TASNEM&label=🔥%20PROFILE%20VIEWS%20🔥&color=FF1493&style=for-the-badge&labelColor=0A0A0A" alt="Profile Views" />
-  
+
   <img src="https://img.shields.io/github/followers/MD-TASNEM?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FF00&labelColor=0A0A0A" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/MD-TASNEM?style=for-the-badge&logo=github&label=STARS&color=FFD700&labelColor=0A0A0A" alt="GitHub Stars"/>
-  
+
   <br/><br/>
-  
-  <!-- ANIMATED SNAKE -->
+
+  <!-- SNAKE ANIMATION -->
   <img src="https://raw.githubusercontent.com/MD-TASNEM/MD-TASNEM/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
-  
+
   <br/>
-  
+
   <div>
     <h3 style="animation: glow 2s ease-in-out infinite;">⭐ رَبِّ زِدْنِي عِلْمًا ⭐</h3>
     <h4>"My Lord, increase me in knowledge" (Quran 20:114)</h4>
   </div>
-  
+
   <div>
     <p><i>✨ Thank you for visiting my profile. May Allah accept our efforts and grant us sincerity in all our deeds. ✨</i></p>
-    <p><b>📅 Last Updated:</b> <img src="https://img.shields.io/badge/DATE-2026--04--17-00FF00?style=flat-square"/> &nbsp; 
+    <p><b>📅 Last Updated:</b> <img src="https://img.shields.io/badge/DATE-2026--04--17-00FF00?style=flat-square"/> &nbsp;
     <b>⏱️ Status:</b> <img src="https://img.shields.io/badge/🟢_ACTIVE_ONLINE-CODING-FF1493?style=flat-square"/></p>
   </div>
-  
-  <!-- ANIMATED MUSIC SECTION -->
+
+  <!-- RECENTLY PLAYED -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j2zmg63mey7zowj6nzg2clz3na&count=3&width=600" alt="Recently Played"/>
-  
+
   <br/><br/>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkle&fontColor=ffffff" width="100%"/>
 </div>
 
@@ -430,9 +430,3 @@
     transform: translateY(-5px);
   }
 </style>
-
-<!-- HOVER ANIMATIONS FOR BADGES (GITHUB SUPPORTS) -->
-<script>
-  // This script won't run on GitHub but adds visual hints
-  console.log("🔥 MD TASNEM - Full-Stack Developer & Da'i 🔥");
-</script>
