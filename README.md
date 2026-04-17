@@ -227,7 +227,7 @@ I build clean, scalable web applications with a focus on creating impactful Isla
 
 
   <!-- RECENTLY PLAYED -->
-
+<div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkle&fontColor=ffffff" width="100%"/>
 </div>
